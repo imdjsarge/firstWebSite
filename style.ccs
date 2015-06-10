@@ -1,0 +1,11 @@
+body {
+    backgound-color:#E6E6FA;
+    color:#191970;
+}
+h1 {
+    color: #E6E6FA;
+    background-color: #191970;
+}
+p {
+    background-color: #AEAED4;
+    }
